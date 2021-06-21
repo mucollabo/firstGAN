@@ -1,4 +1,4 @@
 mnist_data/mnist_test.csv
 mnist_data/mnist_train.csv
-
-
+venv/
+.idea/
