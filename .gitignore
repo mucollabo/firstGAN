@@ -3,4 +3,5 @@ mnist_data/mnist_train.csv
 venv/
 .idea/
 .DS_Store
+.gitignore
 
